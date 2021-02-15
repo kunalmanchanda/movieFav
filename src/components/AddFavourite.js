@@ -9,7 +9,7 @@ const AddFavourite = () => {
                 width="16" 
                 height="16" 
                 fill="red" 
-                class="bi bi-heart-fill" 
+                className="bi bi-heart-fill" 
                 viewBox="0 0 16 16">
             
                 <path 
